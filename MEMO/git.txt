@@ -1,0 +1,3 @@
+
+user.name=shinhyunho7653
+user.email=awd2633@gmail.com

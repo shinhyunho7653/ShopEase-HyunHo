@@ -1,0 +1,15 @@
+
+.광고창{
+  background-color: lightblue;
+}
+
+.경고창{
+  background-color: lightgray;
+  padding: 30px;
+}
+
+.공지사항{
+  background-color: palevioletred;
+  padding: 30px;
+  display: none;
+}
